@@ -1,3 +1,7 @@
+#to run this you need Tutle library installed in your device alreay which you can simply install by running following command:
+#pip install turtle
+
+
 import turtle
 screen =turtle.Screen()
 t=turtle.Turtle()
